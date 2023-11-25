@@ -1,0 +1,30 @@
+.fossil {
+	weight: 880px;
+	height: 520px;
+}
+#photo {
+	height: 200px;
+}
+#abc{
+	list-style :none;
+	display : flex;
+	background-color:#B0C4DE;
+	padding:10px;
+}
+li{
+	margin-right:19%;
+	}
+#a{
+	background-color: #4682B4;
+	text-align: center;
+	padding:20px;
+	}
+body{
+	font-family:Arial,snas-serif;
+	background-color:#F0F8FF;
+	justify-content:space-around;
+	padding:120px;
+	}
+h2{
+	color:blue;
+	}
